@@ -477,7 +477,8 @@ button:focus {
     height: 88px;
 }
 
-.company-icon:hover {
+.company-icon:hover,
+.company-icon:focus {
     fill: #404BBF;
     border-color: #404BBF;
 }
